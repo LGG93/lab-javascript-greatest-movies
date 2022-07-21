@@ -2073,7 +2073,7 @@ function orderByYear(moviesArray) {
 let test1= orderByYear(movies2);
 console.log(test1);
 
-const numbers2 = [22, 23, 99, 68, 1, 0, 9, 112, 223, 64, 18, 99];
+
   const ascendingArray = [...test1];
 
   function compare(a, b) {
